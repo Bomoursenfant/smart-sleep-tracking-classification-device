@@ -23,22 +23,27 @@ The device sends data to Google Sheets every 10 seconds and updates the Blynk da
 ### Hardware Circuit
 
 ![Real Circuit](Images/Real%20circuit.png)
+
 *Real actual circuit diagram*
 
 ### Blynk Cloud Dashboard
 
 ![Blynk Dashboard](Images/Blynk.png)
+
 *BPM and SpO2 oscillator chart on the Blynk cloud*
 
 ### Sleep Classification Data
 
 ![Excel Table 1](Images/Excel%20table.png)
+
 *Sleep classification statistics table in Google Sheet*
 
 ![Excel Table 2](Images/Excel%20table%202.png)
+
 *Sleep classification statistics table in Google Sheet (continued)*
 
 ![Excel Table 3](Images/Excel%20table%203.png)
+
 *Sleep classification statistics table in Google Sheet (analysis)*
 
 ## Authors
