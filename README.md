@@ -49,7 +49,7 @@ The device sends data to Google Sheets every 10 seconds and updates the Blynk da
 
 ## Authors
 
-- **Bomoursenfant** - [GitHub Profile](https://github.com/Bomoursenfant)
+- **Trinh Cong Thanh** - [GitHub Profile](https://github.com/Bomoursenfant)
 
 ## Usage
 
