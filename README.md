@@ -18,6 +18,7 @@ The device sends data to Google Sheets every 10 seconds and updates the Blynk da
 ### System Overview
 
 ![System in Operation](Images/Images%20showing%20the%20entire%20system%20in%20operation.png)
+
 *Images showing the entire system in operation*
 
 ### Hardware Circuit
